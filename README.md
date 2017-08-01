@@ -1,6 +1,4 @@
 # react-native-http-fetch
-顶部控件
-
 
 使用：
 
